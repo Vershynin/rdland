@@ -146,6 +146,8 @@
         width: 100%;
         float: none;
         clear: both;
+        display: table;
+        max-width: none;
       }
 
       input[type="submit"] {

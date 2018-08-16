@@ -854,7 +854,9 @@ body {
                 border-radius: 6px;
         width: 100%;
         float: none;
-        clear: both; }
+        clear: both;
+        display: table;
+        max-width: none; }
       .subscribeform fieldset input[type="submit"] {
         -webkit-border-radius: 6px;
                 border-radius: 6px;
