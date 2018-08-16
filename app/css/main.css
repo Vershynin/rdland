@@ -141,7 +141,7 @@ body {
     float: right;
     margin-top: 12px;
     margin-left: 17px; }
-    .menu-right__searchform input[type="text"] {
+    .menu-right__searchform input[type="email"] {
       width: 180px;
       height: 40px;
       -webkit-border-radius: 6px 0 0 6px;
@@ -481,7 +481,7 @@ body {
     margin: 0; }
   .subscribeform fieldset {
     padding-left: 30px; }
-    .subscribeform fieldset input[type="text"] {
+    .subscribeform fieldset input[type="email"] {
       height: 48px;
       -webkit-border-radius: 6px 0 0 6px;
               border-radius: 6px 0 0 6px;
@@ -849,7 +849,7 @@ body {
     .subscribeform fieldset {
       display: table;
       padding-left: 0; }
-      .subscribeform fieldset input[type="text"] {
+      .subscribeform fieldset input[type="email"] {
         -webkit-border-radius: 6px;
                 border-radius: 6px;
         width: 100%;
@@ -906,7 +906,7 @@ body {
     margin-left: 8px; }
   .menu-right .menu-right__searchform {
     margin-left: 8px; }
-    .menu-right .menu-right__searchform input[type="text"] {
+    .menu-right .menu-right__searchform input[type="email"] {
       width: 150px; } }
 
 @media (max-width: 680px) {
@@ -919,7 +919,7 @@ body {
   .menu-right .menu-right__searchform {
     margin-left: 5px;
     float: left; }
-    .menu-right .menu-right__searchform input[type="text"] {
+    .menu-right .menu-right__searchform input[type="email"] {
       width: 140px; }
     .menu-right .menu-right__searchform input[type="submit"] {
       padding: 8px 20px; }
@@ -929,7 +929,7 @@ body {
       left: 20px; } }
 
 @media (max-width: 320px) {
-  .menu-right__searchform input[type="text"] {
+  .menu-right__searchform input[type="email"] {
     width: 140px; }
   .menu-right__searchform input[type="submit"] {
     padding: 8px 10px; } }

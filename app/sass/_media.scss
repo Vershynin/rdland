@@ -141,7 +141,7 @@
     fieldset {
       display: table;
       padding-left: 0;
-      input[type="text"] {
+      input[type="email"] {
         border-radius: 6px;
         width: 100%;
         float: none;
@@ -243,7 +243,7 @@
     .menu-right__searchform {
       margin-left: 8px;
 
-      input[type="text"] {
+      input[type="email"] {
         width: 150px;
       }
     }
@@ -268,7 +268,7 @@
       margin-left: 5px;
       float: left;
 
-      input[type="text"] {
+      input[type="email"] {
         width: 140px;
       }
 
@@ -290,7 +290,7 @@
   .menu-right__searchform {
 
 
-    input[type="text"] {
+    input[type="email"] {
       width: 140px;
     }
 
